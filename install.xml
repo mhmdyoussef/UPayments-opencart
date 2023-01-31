@@ -1,0 +1,10 @@
+<?xml version="1.1" encoding="UTF8"?>
+<modification>
+    <name>UPayments</name>
+    <author><![CDATA[<b style="color:green">MY-Dev | </b><b>Mohamed Youssef</b>]]></author>
+    <link>https://my-dev.pro</link>
+    <description>upayment gateway in KWD</description>
+    <code>mydev_upayments</code>
+    <version>0.0.1</version>
+    <!-- files modifications -->
+</modification>
